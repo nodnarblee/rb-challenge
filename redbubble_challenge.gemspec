@@ -5,7 +5,7 @@ require 'redbubble_challenge/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "redbubble_challenge"
-  spec.version       = RedbubbleChallenge::VERSION
+  spec.version       = ImageProcessor::VERSION
   spec.authors       = ["Brandon"]
   spec.email         = ["brandon@sidebuy.com"]
 

@@ -1,11 +1,17 @@
 require 'spec_helper'
 
-describe RedbubbleChallenge do
-  it 'has a version number' do
-    expect(RedbubbleChallenge::VERSION).not_to be nil
-  end
+describe ImageProcessor do
 
-  it 'does something useful' do
-    expect(false).to eq(true)
-  end
+  context ""
+
+
+
+
+  # it 'has a version number' do
+  #   expect(ImageProcessor::VERSION).not_to be nil
+  # end
+  #
+  # it 'does something useful' do
+  #   expect(false).to eq(true)
+  # end
 end
